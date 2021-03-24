@@ -3,7 +3,8 @@
 
 ### Seja bem vindo ao CinemaApp!
 
-Link FIGMA
+Link Figma
+
 https://www.figma.com/file/ge7jtpr13AvJ1vB8IxwYFz/CinemaApp
 
 ### Execute!
