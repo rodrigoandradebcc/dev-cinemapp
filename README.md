@@ -3,6 +3,9 @@
 
 ### Seja bem vindo ao CinemaApp!
 
+Link FIGMA
+https://www.figma.com/file/ge7jtpr13AvJ1vB8IxwYFz/CinemaApp
+
 ### Execute!
 
 yarn
